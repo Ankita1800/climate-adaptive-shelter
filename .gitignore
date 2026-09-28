@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.streamlit/
+
+# Generated outputs
+results/*
+!results/.gitkeep
+
+# Local data files
+*.csv
+*.parquet
